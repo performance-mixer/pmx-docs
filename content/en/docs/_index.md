@@ -5,24 +5,14 @@ menu: {main: {weight: 20}}
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Welcome to the PMX-1 documentation. This is where you can explore all the
+features and possibilities of mixing with PMX-1. To get started, have a look
+in the [Getting Started]() section, which will guide you through the different
+ways available to install and run PMX-1.
 {{% /pageinfo %}}
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
-
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
-
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+PMX-1 is a performance mixer build on top of [pipewire](http://pipewire.org/)
+and wireplumber. For an overview if what PMX-1 can do, see no further than the
+[Overview](/docs/overview) section. If what you find there sounds interesting,
+head to the [Getting Started](/docs/install) section to get PMX-1 up and
+running.

@@ -3,4 +3,23 @@
 Add styles or override variables from the theme here.
 
 */
+$pomp_and_power: #985f99 !default;
+$jonquii: #f1c40f !default;
+$black_olive: #2a2c24 !default;
+$uranian_blue: #abdafc !default;
+$steel_blue: #3e7cb1 !default;
 
+$success: #549f93 !default;
+$info: #735cdd !default;
+$warning: #f1c40f !default;
+$danger: #f75c03 !default;
+
+
+
+$primary: $pomp_and_power !default;
+$secondary: $jonquii !default;
+$dark: $black_olive !default;
+$light: $uranian_blue !default;
+
+
+$td-box-colors: $light $dark $primary $secondary $light $steel_blue !default;
