@@ -1,25 +1,14 @@
 ---
-title: Getting Started
-description: Installing PMX-1 and the first audio output?
-categories: [intro]
-tags: [Start Here]
-weight: 2
+title: Arch Linux
+date: 2025-03-13
+description: >
+  Install on arch linux.
+categories: [Getting Started]
+tags: [intro, arch linux]
+weight: 1
 ---
 
-{{% pageinfo %}}
-The following section explain how to install and set up PMX-1 as well as how to
-connect the first audio device. Afterwards you should be ready so use PMX-1 and
-move on to the [Tutorials](/tutorials) or the rest of the [Documentation](/docs).
-{{% /pageinfo %}}
-
-This section describes the installation and a short usage example. It shows how
-to do the following:
-
-- Install the dependencies
-- Install PMX-1 from source either with the AUR package or by cloning
-  the repository
-- Set up the Open Stage Control GUI
-- Connect hydrogen to the mixer
+This section describes the installation on Arch Linux.
 
 ## Prerequisites
 
@@ -134,11 +123,3 @@ git clone https://github.com/performance-mixer/pmx-osc-ui
 ```
 
 To start the GUI, open `pmx_osc_ui.json` in Open Stage Control.
-
-## Setup
-
-Is there any initial setup users need to do after installation to try your project?
-
-## Try it out
-
-Can your users test their installation, for example by running a command or deploying a Hello World example?
