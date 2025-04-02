@@ -17,11 +17,7 @@ the [Open Stage Control GUI](/docs/open-stage-control-gui#layer-selector).
 <table class="table table-bordered">
   <thead>
     <tr>
-      <th rowspan="2">Row</th>
-      <th colspan="4">CC Number</th>
-    </tr>
-    <tr>
-      <th colspan="4">Device Parameter</th>
+      <th colspan="5">Faderfox PC4 - CC Number and Parameter Mapping</th>
     </tr>
   </thead>
   <tbody>
