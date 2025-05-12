@@ -12,6 +12,10 @@ of PMX-1 from a web browser. The UI sends OSC messages to PMX-1 and also listens
 to the feed-back OSC messages from PMX-1. That means that the GUI can be used
 to control the mixer, as well as monitor parameter changes.
 
+## Setup
+
+Open Stage Control sends and receives OSC messages over UDP.
+
 ![The Open Stage Control GUI](/screenshots/pmx-open-stage-control-gui.png)
 
 As can be seen in the screenshot above, the GUI is divided into six sections:

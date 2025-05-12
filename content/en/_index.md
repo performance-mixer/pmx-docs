@@ -13,8 +13,8 @@ title: Performance Mixer
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/install">
-  Install <i class="fab fa-github ms-2 "></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/getting-started/install/">
+  Install <i class="fa-solid fa-floppy-disk"></i>
 </a>
 
 &nbsp;
@@ -33,10 +33,10 @@ DAW less - Perform more!
 Performance Mixer: PMX-1, or just PMX-1 for short, is a revolutionary
 performance mixer, unleashing the power of [pipewire](http://pipewire.org/) and
 [wireplumber](https://pipewire.pages.freedesktop.org/wireplumber/) for limitless
-audio mixing. Thanks to linux and pipewires ability to make us of, and combine,
+audio mixing. Thanks to linux and pipewires ability to make use of, and combine,
 all kinds of audio interfaces, PMX-1 allows us to combine professional audio
 interfaces, consumer grade audio interfaces, and music hardware with integrated
-audio interfaces, for example the Roland TR-6S. And because it's running on your
+audio interfaces, for example, the Roland TR-6S. And because it's running on your
 computer, you could still use a DAW if you had too...
 {{% /blocks/lead %}}
 
@@ -71,13 +71,12 @@ Be creative and join the community
 {{% blocks/section type="row" %}}
 
 {{% blocks/feature icon="fa-regular fa-comments" title="Join the Community" %}}
-The team is available on IRC. Join us on #performance-mixer on irc.oftc.net and
-irc.libera.chat.
+The team is available on IRC.<br>Join us on **#performance-mixer** on **irc.libera.chat**.
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Use the Source young Padawan"
-                   url="<https://github.com/orgs/performance-mixer>" %}}
-PMX-1 is open source and developed on GitHub.
+                   url="https://github.com/orgs/performance-mixer" %}}
+PMX-1 is **open source** and developed on GitHub.
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
